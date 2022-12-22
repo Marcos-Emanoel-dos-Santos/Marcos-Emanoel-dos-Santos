@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Eggsbennedit
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning how to program in p5.js
+- 👋 Olá, eu sou Eggsbennedit
+- 👀 Estou interessado em programação
+- 🌱 Tentando aprender o básico de programação.
 - 
-- 📫 How to reach me:
 - => Discord: Eggsbennedit#6113
 - =>  E-mail: marcosssantos1997@gmail.com
 
