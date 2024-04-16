@@ -2,7 +2,7 @@
 - 👀 Estou interessado em programação
 - 🌱 Tentando aprender o básico de programação.
 - 
-- => Discord: Eggsbennedit#6113
+- => Discord: eggsbennedit
 - =>  E-mail: marcosssantos1997@gmail.com
 
 <!---
