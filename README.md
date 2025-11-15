@@ -1,6 +1,4 @@
-- 👋 Olá, eu sou Eggsbennedit
-- 👀 Estou interessado em programação
-- 🌱 Tentando aprender o básico de programação.
+- Hello, I'm Marcos, a computer science student at Pontifícia Universidade Católica do Paraná!
 - 
 - => Discord: eggsbennedit
 - =>  E-mail: marcosssantos1997@gmail.com
